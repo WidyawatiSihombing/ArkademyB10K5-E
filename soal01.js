@@ -10,7 +10,7 @@
 
 </body>
 <script type="text/javascript">
-//    Jawaban soal 3
+//    Jawaban soal 1
 var Biodata =getBiodata();
 console.log('Biodata : '+Biodata);
 function getBiodata() {
